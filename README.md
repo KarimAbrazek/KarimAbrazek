@@ -1,22 +1,54 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 I'm Karim Abdelrazek</h1>
 
-###
+<div align="center">
+  <b>AEC & BIM Software Developer | .NET | React | Revit APIs | APS APIs</b>
+</div>
 
-<p align="left">👋 Hi, I'm Karim Abdelrazek!  <br># AEC & BIM Software Developer | .NET | React | Revit APIs |  APS APIs</p>
+<br/>
 
-###
+## 💼 About me
 
-<h2 align="left">About me</h2>
+🏗️ **Innovating the Future of AEC with BIM**  
+I specialize in integrating BIM workflows with cutting-edge software solutions, developing high-performance tools and add-ins for Autodesk products, and optimizing AEC workflows through advanced software development. My focus is on creating decision support systems that drive efficiency, accuracy, and automation in the industry.
 
-###
+## 🛠️ Tech Stack
 
-<p align="left">🚀 Innovating the Future of AEC with BIM & AI<br>I specialize in integrating BIM workflows with cutting-edge software solutions, developing high-performance tools and add-ins for Autodesk products, and optimizing AEC workflows. My focus is on AI-powered decision support systems that drive efficiency, accuracy, and automation in the industry.<br><br>🔧 Tech Stack<br>Languages: C#, JavaScript, TypeScript, Python<br>Frameworks & Libraries: .NET, React, WPF, Node.js<br>Autodesk & BIM APIs: Revit API, APS API, Dynamo API, IFC.js, Forge Viewer<br>Computational & Structural Engineering: MATLAB, SAP2000 API, Rhino Inside.<br><br>📚 Currently Exploring<br>Machine Learning (ML) in AEC – Automating design, construction insights, and structural optimization<br>AI-Driven Design & Decision Support – Enhancing BIM workflows with intelligent automation.<br><br>🎯 Goals & Vision<br>Build AI-powered decision-making tools that revolutionize BIM workflows<br>Enhance interoperability between AEC software ecosystems<br>Leverage data-driven insights for structural optimization and automation<br>Contribute to open-source AEC/BIM innovation.<br><br>🎲 Fun Fact<br>Bridging the gap between engineering and software – I love pushing the limits of what's possible by combining structural engineering, computational design, and AI to create next-gen AEC solutions!</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>C#, JavaScript, TypeScript, Python</td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>.NET, React, WPF, Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Autodesk & BIM APIs</b></td>
+    <td>Revit API, APS API, Dynamo API, IFC.js, Forge Viewer</td>
+  </tr>
+  <tr>
+    <td><b>Engineering Tools</b></td>
+    <td>MATLAB, SAP2000 API, Rhino Inside</td>
+  </tr>
+</table>
 
-###
+## 🔭 Currently Exploring
 
-<h2 align="left">I code with</h2>
+- Machine Learning (ML) in AEC – Automating design, construction insights, and structural optimization
+- AI-Driven Design & Decision Support – Enhancing BIM workflows with intelligent automation
 
-###
+## 🎯 Goals & Vision
+
+- Build powerful decision-making tools that revolutionize BIM workflows
+- Enhance interoperability between AEC software ecosystems
+- Leverage data-driven insights for structural optimization and automation
+- Contribute to open-source AEC/BIM innovation
+
+## ⚡ Fun Fact
+
+Bridging the gap between engineering and software – I love pushing the limits of what's possible by combining structural engineering and computational design to create next-gen AEC solutions!
+
+## 💻 I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -40,10 +72,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
+## 🔗 Connect with me
 
 <div align="left">
-  <a href="www.linkedin.com/in/karim-abdelrazek1" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-abdelrazek1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/1282746536974880828" target="_blank">
@@ -51,4 +83,8 @@
   </a>
 </div>
 
-###
+---
+
+<div align="center">
+  ⚡ <i>Creating the future of AEC technology, one commit at a time</i> ⚡
+</div>
