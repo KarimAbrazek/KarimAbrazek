@@ -24,11 +24,7 @@ I specialize in integrating BIM workflows with cutting-edge software solutions, 
   </tr>
   <tr>
     <td><b>Autodesk & BIM APIs</b></td>
-    <td>Revit API, APS API, Dynamo API, IFC.js, Forge Viewer</td>
-  </tr>
-  <tr>
-    <td><b>Engineering Tools</b></td>
-    <td>MATLAB, SAP2000 API, Rhino Inside</td>
+    <td>Revit API, APS API, Dynamo, IFC.js, Forge Viewer, Navisworks API, Tekla API, ETABS API, SAP2000 API, Rhino Inside Revit API,...etc</td>
   </tr>
 </table>
 
@@ -41,12 +37,12 @@ I specialize in integrating BIM workflows with cutting-edge software solutions, 
 
 - Build powerful decision-making tools that revolutionize BIM workflows
 - Enhance interoperability between AEC software ecosystems
-- Leverage data-driven insights for structural optimization and automation
+- Leverage data-driven insights for optimization and automation
 - Contribute to open-source AEC/BIM innovation
 
 ## ⚡ Fun Fact
 
-Bridging the gap between engineering and software – I love pushing the limits of what's possible by combining structural engineering and computational design to create next-gen AEC solutions!
+Transforming construction through technology – I thrive on merging AEC expertise with programming to develop solutions that solve real-world challenges across the entire building lifecycle!
 
 ## 💻 I code with
 
